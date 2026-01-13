@@ -1,0 +1,11 @@
+# Jupyter & Notebooks
+jupyterlab
+ipykernel
+
+# Core Python Utilities
+pandas
+
+# Deep Learning
+tensorflow
+keras
+scipy
