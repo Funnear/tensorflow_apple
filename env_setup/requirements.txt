@@ -6,6 +6,6 @@ ipykernel
 pandas
 
 # Deep Learning
-tensorflow
+tensorflow == 2.19.1
 keras
 scipy
